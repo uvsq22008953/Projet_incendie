@@ -7,3 +7,7 @@
 #Fernandez Sébastien 
 # https://github.com/uvsq22008953/Projet_incendie
 #########################################
+
+
+a=1
+b=2
